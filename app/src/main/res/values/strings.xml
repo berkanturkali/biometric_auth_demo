@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BiometricAuthDemo</string>
+
+    <string name="email">Email</string>
+    <string name="input_field_empty_error_message">Field can not be empty!</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_with_biometrics">Login with Biometrics</string>
+    <string name="or">or</string>
+    <string name="signup">Signup</string>
+    <string name="welcome">Welcome Back!</string>
+    <string name="it_is_good_to_see_you_again">It is good to see you again!</string>
+    <string name="email_address_is_not_valid_error_message">Email address is not valid!</string>
+    <string name="password_can_not_be_less_than_six_chars_error_message">Password can not be less than six characters!</string>
+    <string name="unknown_error_message">Something went wrong.</string>
+    <string name="network_connection_error_message">Please check your network connection!</string>
+    <string name="timeout_error_message">Timeout!</string>
+    <string name="okay">Okay</string>
+    <string name="biometric_auth_prompt_title">Demo App Authentication</string>
+    <string name="biometric_auth_prompt_subtitle">Please login to get access</string>
+    <string name="biometric_auth_prompt_description">Demo App is using Android biometric authentication.</string>
+    <string name="biometric_auth_prompt_negative_text">Login by using password.</string>
+    <string name="login_with_credentials_first_error_message">You must login with email and password credentials first to enable biometric authentication.</string>
+    <string name="you_must_login_with_email_and_password_first">You must login with email and password first.</string>
+    <string name="you_must_enroll_the_biometrics_from_the_settings_first">You must enroll the biometrics from the settings first.</string>
+    <string name="you_have_logged_in_successfully">You have logged in successfully.</string>
+</resources>
